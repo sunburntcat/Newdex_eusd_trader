@@ -1,0 +1,6 @@
+10 * * * * bash /etc/cron.hourly/prices.sh
+30 * * * * bash /etc/cron.hourly/prices.sh
+50 * * * * bash /etc/cron.hourly/prices.sh
+
+26 * * * * bash /etc/cron.hourly/eusd_trade.sh
+50 * * * * bash /etc/cron.hourly/eusd_trade.sh
